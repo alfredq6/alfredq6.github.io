@@ -4,7 +4,7 @@ I'm a student of Information Technology Faculty of BSTU and study at the 2nd cou
 
 ## Links
 
- My codewars profile: [alfredq6](https://www.codewars.com/users/alfredq6)
+ My codewars profile: [alfredq6](https://www.codewars.com/users/alfredq6)\n
  Tic Tac Toe project repository: [Tic Tac Toe](https://github.com/alfredq6/TicTacToe)
  Fancy Calc project repository: [FancyCalc](https://github.com/alfredq6/FancyCalc)
  Tasks from padawans.net:

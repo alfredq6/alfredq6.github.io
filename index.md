@@ -1,8 +1,8 @@
-#About
+# About
 
 I'm a student of Information Technology Faculty of BSTU and study at the 2nd course. I got expirience in coding C#, C++, JS by labs.
 
-#Links
+# Links
 
 My codewars profile: [alfredq6](https://www.codewars.com/users/alfredq6)
 Tic Tac Toe project repository: [Tic Tac Toe](https://github.com/alfredq6/TicTacToe)

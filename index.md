@@ -16,6 +16,12 @@
    * [PadawansTask5](https://github.com/alfredq6/PadawansTask5)
    * [PadawansTask6](https://github.com/alfredq6/PadawansTask6)
    * [PadawansTask7](https://github.com/alfredq6/PadawansTask7)
+   * [PadawansTask8](https://github.com/alfredq6/PadawansTask8)
+   * [PadawansTask9](https://github.com/alfredq6/PadawansTask9)
+   * [PadawansTask10](https://github.com/alfredq6/PadawansTask10)
+   * [PadawansTask11](https://github.com/alfredq6/PadawansTask11)
+   * [PadawansTask12](https://github.com/alfredq6/PadawansTask12)
+   * [PadawansTask13](https://github.com/alfredq6/PadawansTask13)
 
 
 Barack to make you smile :)

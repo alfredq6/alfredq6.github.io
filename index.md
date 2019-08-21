@@ -1,6 +1,6 @@
 ## About
 
- I'm a student of Information Technology Faculty of BSTU and study at the 2nd course. I got expirience in coding C#, C++, JS by labs. Also had practice in ASP.NET Core MVC, SignalR, Ajax, JQuery.
+ I'm a student of Information Technology Faculty of BSTU and study at the 2nd course. I got expirience in coding C#, C++, JS, some SQL by labs. Also had practice in ASP.NET Core MVC, SignalR, Ajax, JQuery, Entity Framework (Core), SQL Server.
 
 ## Links
 

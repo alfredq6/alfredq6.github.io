@@ -11,9 +11,9 @@
 
 ## Contacts
 
-*Telegram: [link](https://t.me/alfredq6)
-*Skype login: alfredq6
-*Email: [alfredq6@gmail.com](alfredq6@gmail.com)
+* Telegram: [link](https://t.me/alfredq6)
+* Skype login: alfredq6
+* Email: [alfredq6@gmail.com](alfredq6@gmail.com)
 
 Barack to make you smile :)
 

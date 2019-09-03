@@ -6,9 +6,14 @@
 
 1. My codewars profile: [alfredq6](https://www.codewars.com/users/alfredq6)
 2. Tic Tac Toe project repository: [Tic Tac Toe](https://github.com/alfredq6/TicTacToe)
-3. BSTU Course project (2nd course): [GSApp](https://github.com/alfredq6/GSApp-BSTU-CourseProject)
-4. Itransition course project: [CrowfundingPlatformApp](https://github.com/alfredq6/CrowfundingPlatformApp)
+3. BSTU Course project (2nd course): [GSApp](https://github.com/alfredq6/GSApp-BSTU-CourseProject) (private)
+4. Itransition course project: [CrowfundingPlatformApp](https://github.com/alfredq6/CrowfundingPlatformApp) (private)
 
+## Contacts
+
+Telegram: [link](https://t.me/alfredq6)
+Skype login: alfredq6
+Email: [alfredq6@gmail.com](alfredq6@gmail.com)
 
 Barack to make you smile :)
 
